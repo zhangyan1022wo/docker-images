@@ -1,0 +1,2 @@
+FROM quay.io/coreos/addon-resizer:1.0
+MAINTAINER ZHANGYAN1022WO
