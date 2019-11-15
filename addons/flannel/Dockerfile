@@ -1,2 +1,2 @@
-FROM quay.io/coreos/kube-state-metrics:v1.3.1
+FROM quay.io/coreos/flannel:v0.9.1
 MAINTAINER zhangyan1022wo
